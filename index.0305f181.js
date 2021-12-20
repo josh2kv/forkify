@@ -67,7 +67,7 @@ $7df48c2976f8e820$export$f7ad0328861e2f03 = $7df48c2976f8e820$var$resolve;
 });
 
 
-(parcelRequire("aOskn")).register(JSON.parse("{\"bRGR6\":\"index.ecda7944.js\",\"78W93\":\"icons.e2ae383c.svg\"}"));
+(parcelRequire("aOskn")).register(JSON.parse("{\"bRGR6\":\"index.0305f181.js\",\"78W93\":\"icons.e2ae383c.svg\"}"));
 
 var $594652a362ed5f8a$exports = {};
 'use strict';
@@ -14550,7 +14550,7 @@ class $aa231373fcdc27bf$var$recipeView extends $558513bd8b67e9a7$export$2e2bcd87
         <svg class="recipe__icon">
           <use href="${(/*@__PURE__*/$parcel$interopDefault($b3508b94f4b4a576$exports))}#icon-check"></use>
         </svg>
-        <div class="recipe__quantity">${ing.quantity}</div>
+        <div class="recipe__quantity">${ing.quantity ? ing.quantity : ''}</div>
         <div class="recipe__description">
           <span class="recipe__unit">${ing.unit}</span>
           ${ing.description}
