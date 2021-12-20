@@ -1,0 +1,4 @@
+node_modules
+packge-lock.json
+.vscode
+.parcel-cache
