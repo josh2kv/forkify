@@ -38,14 +38,14 @@ https://josh2kv.github.io/forkify/
   │   |   │   config.js
   │   |   │
   │   │   └───views
-  │   |           View.js
-  │   |           addRecipeView.js
-  │   |           bookmarkView.js
-  │   |           paginationView.js
-  │   |           previewView.js
-  │   |           recipeView.js
-  │   |           resultsView.js
-  │   |           searchView.js
+  │   |       |   View.js
+  │   |       |   addRecipeView.js
+  │   |       |   bookmarkView.js
+  │   |       |   paginationView.js
+  │   |       |   previewView.js
+  │   |       |   recipeView.js
+  │   |       |   resultsView.js
+  │   |       |   searchView.js
   │   │
   │   └───sass
   │       │   main.scss
