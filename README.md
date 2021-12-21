@@ -3,14 +3,14 @@
 https://josh2kv.github.io/forkify/
 ![image](https://user-images.githubusercontent.com/79514508/146728707-624debc0-05be-4687-ac1f-fd6de9e1434e.png)
 
-> 학습자료
->
-> - [The Complete JavaScript Course: From Zero to Expert!][1]
-
 ## 1. 소개 및 특징
 
 - Vanilla JavaScript를 이용한 MVC패턴의 SPA
 - [Forkify API][2]를 이용하여 레시피를 검색, 등록, 북마크
+
+  > 학습자료
+  >
+  > - [The Complete JavaScript Course: From Zero to Expert!][1]
 
 ## 2. 사용기술
 
