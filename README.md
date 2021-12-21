@@ -15,7 +15,8 @@ https://josh2kv.github.io/forkify/
 ## 2. 사용기술
 
 - HTML
-- CSS(SCSS)
+- CSS
+  - SCSS
 - JavaScript
 - Parcel
 
@@ -38,18 +39,18 @@ https://josh2kv.github.io/forkify/
   │   |   │   config.js
   │   |   │
   │   │   └───views
-  │   |           View.js
-  │   |           addRecipeView.js
-  │   |           bookmarkView.js
-  │   |           paginationView.js
-  │   |           previewView.js
-  │   |           recipeView.js
-  │   |           resultsView.js
-  │   |           searchView.js
+  │   |       |   View.js
+  │   |       |   addRecipeView.js
+  │   |       |   bookmarkView.js
+  │   |       |   paginationView.js
+  │   |       |   previewView.js
+  │   |       |   recipeView.js
+  │   |       |   resultsView.js
+  │   |       |   searchView.js
   │   │
   │   └───sass
   │       │   main.scss
-  │       │   _base_.scee
+  │       │   _base.scss
   │       │   ...
   │
   └───dist
@@ -57,7 +58,7 @@ https://josh2kv.github.io/forkify/
 
   ```
 
-  - React와 같은 라이브러리가 등장한 이유, 상태관리, View의 컴포넌트화 등 React를 공부하면서 갸우뚱했던 부분들이 많이 와닫게 됨<br/><br/>
+  - React를 공부하면서 갸우뚱했던 부분들이 많이 와닫게 됨(React와 같은 라이브러리가 등장한 이유, 상태관리, View의 컴포넌트화 등)<br/><br/>
 
 - Publisher-Subscriber 패턴
 
